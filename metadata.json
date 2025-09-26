@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NxtWave Voice agent -IntroCall",
+  "description": "xzxzx",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
